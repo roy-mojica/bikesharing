@@ -21,4 +21,11 @@ You can also see that that "Subscribers", which are users who repeatedly uses Ci
 
 
 ## Summary
+The next important step would be to understand ideal locations for bike stations. You can see in the below images the Top Starting and Ending points in NYC. The majority of them take place in the lower half of Manhattan, with the ending points slightly denser towards the middle. 
+
+#### Top Starting Points
+
+
+#### Top Ending POints
+
 
